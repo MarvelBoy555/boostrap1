@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(123, 53, 255);
+    background-image: url(/images/ultra-hd-neon-genesis-evangelion-wallpaper-587gxoeds28vh257.jpg);
+    background-size: cover;
+}
+
+.fondoverdeclaro{
+    background-color: rgb(235, 255, 205);
+}
+
+.fondoverde{
+    background-color: rgb(99, 49, 49);
+    background-image: url(/images/anime-anime-boys-picture-in-picture-kimetsu-no-yaiba-kamado-tanjirō-hd-wallpaper-preview.jpg);
+    background-size: cover;
+}
+
+.altura1{
+    height: 2rem;
+}
+
+.altura2{
+    height: 20rem;
+}
+
+.altura3{
+    height: 20rem;
+}
+
+.altura4{
+    height: 20rem;
+}
+
+.altura5{
+    height: 20rem;
+}
+
+.altura6{
+    height: 10rem;
+}
+
+.altura7{
+    height: 10rem;
+}
+
+.fondoamarillo{
+    background-color: rgb(11, 218, 255);
+    background-image: url(/images/descarga.jpg);
+    background-size: cover;
+}
+
+.fondoazul{
+    background-color: rgb(27, 0, 0);
+    background-image: url(/images/descarga\ \(1\).jpg);
+    background-size: cover;
+}
+
+.fondorojo{
+    background-color: rgb(9, 255, 0);
+    background-image: url(/images/descarga\ \(2\).jpg);
+    background-size: cover;
+}
+
+.fondonaranja{
+    background-color: rgb(255, 15, 255);
+    background-image: url(/images/descarga\ \(3\).jpg);
+    background-size: cover;
+}
+
+.fondomorado{
+    background-color: rgb(255, 4, 4);
+    background-image: url(/images/1366_2000.jpg);
+    background-size: cover;
+}
+
+.fondogris{
+    background-color: rgb(109, 63, 63);
+    background-image: url(/images/1561714606_425342_1561743065_noticia_normal.jpg);
+    background-size: cover;
+}
